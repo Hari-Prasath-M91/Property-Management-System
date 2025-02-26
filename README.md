@@ -68,20 +68,18 @@ Before you begin, ensure you have the following installed:
    pip install -r requirements.txt
    ```
 
-4. **Configure Oracle Connection**
+4. **Configure Oracle Connection and File Paths**
    - In both Photo Upload.py and Home.py, update the Oracle client path:
      ```python
      cx_Oracle.init_oracle_client(lib_dir=r"D:\Programs\oracle\instantclient_23_5")
      ```
+   - Change the paths present in the files Home.py and Photo Uplod.py according to your directory structure to avoid any errors
    - Update the database connection parameters (host, port, SID, username, password)
 
 5. **Set Up the Database**
    - Run the Backend.sql file using your Oracle client to create tables and schema
    - Run Photo Upload.py once to initialize the database with sample images
      
-6. **Change the Paths**
-   - Change the paths present in the files Home.py and Photo Uplod.py according to your directory structure to avoid any errors
-
 ## Running the Project
 
 There are two steps to get the website up and running:
