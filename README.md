@@ -150,6 +150,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you have questions, suggestions, or issues, please:
 
 - Open an issue on GitHub
-- Contact the project maintainers at [your.email@example.com](mailto:your.email@example.com)
+- Contact the project maintainers at [hariprasath.m2017@gmail.com](mailto:hariprasath.m2017@gmail.com)
 
 For more details about the project's design, features, and implementation, please refer to the [Report.pdf](Report.pdf).
