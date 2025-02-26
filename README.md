@@ -78,6 +78,9 @@ Before you begin, ensure you have the following installed:
 5. **Set Up the Database**
    - Run the Backend.sql file using your Oracle client to create tables and schema
    - Run Photo Upload.py once to initialize the database with sample images
+     
+6. **Change the Paths**
+   - Change the paths present in the files Home.py and Photo Uplod.py according to your directory structure to avoid any errors
 
 ## Running the Project
 
