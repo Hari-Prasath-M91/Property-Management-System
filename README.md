@@ -73,8 +73,8 @@ Before you begin, ensure you have the following installed:
      ```python
      cx_Oracle.init_oracle_client(lib_dir=r"D:\Programs\oracle\instantclient_23_5")
      ```
-   - Change the paths present in the files Home.py and Photo Uplod.py according to your directory structure to avoid any errors
    - Update the database connection parameters (host, port, SID, username, password)
+   - Change the paths present in the files Home.py and Photo Uplod.py according to your directory structure to avoid any errors
 
 5. **Set Up the Database**
    - Run the Backend.sql file using your Oracle client to create tables and schema
