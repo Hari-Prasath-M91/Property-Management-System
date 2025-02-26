@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 
 ## Running the Project
 
-There are two steps to get your system up and running:
+There are two steps to get the website up and running:
 
 ### 1. Initialize the Database (One-time Setup)
 ```bash
